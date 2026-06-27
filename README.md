@@ -21,4 +21,4 @@ DSA Visualizer & Coding Platform — Vanilla JS algorithm visualizer with an in-
 
 📬 Connect with me 
 khedekar.vaishnavi08@gmail.com 
-linkedin.com/in/vaishnavi-khedekar
+linkedin.com/in/vaishnavi-khedekar 
